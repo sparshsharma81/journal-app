@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-unused-vars": ["warn"] 
+    //ye no unused-vars ------ ye basically help krega un variables ko detect krne me..joki mere code me use nhi hue hai....
+  }
+}
