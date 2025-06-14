@@ -17,11 +17,10 @@ module.exports = {
         "primary-foreground": "hsl(var(--primary-foreground))",
         secondary: "hsl(var(--secondary))",
         "secondary-foreground": "hsl(var(--secondary-foreground))",
-        // Add others if needed
       },
     },
   },
   plugins: [
     require("tailwindcss-animate"),
   ],
-};
+} 
